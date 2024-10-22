@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMVC.Sitio", "DemoMVC.Si
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{F6AB66B0-3DEB-481E-88DD-3D49B8AFFE1C}"
 	ProjectSection(SolutionItems) = preProject
-		gitignore = gitignore
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Global
